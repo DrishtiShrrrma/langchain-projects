@@ -1,1 +1,1 @@
-tools used: Azure OpenAI, Qdrant, Langchain
+Tools used: Azure OpenAI, Qdrant, Langchain
